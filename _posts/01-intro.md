@@ -1,0 +1,50 @@
+---
+title: "FOSDEM&#39;19 Quantum Computing devroom"
+bg: white
+color: black
+style: left
+---
+
+# FOSDEM&#39;19 Quantum Computing devroom
+
+<div style="text-align:center;">
+  <span class="fa-stack subtlecircle" style="font-size:64px; background:rgba(0,128,0,0.1)">
+    <i class="fa fa-circle fa-stack-2x text-white"></i>
+    <i class="fa fa-server fa-stack-1x text-green"></i>
+  </span>
+</div>
+
+### Saturday, February 2, 2019, Brussels, Belgium
+
+<div style="text-align:center;">
+  <a href="https://fosdem.org/2019"><img src="img/fosdem-logo.png"/></a>
+</div>
+
+
+### Overview
+
+Quantum computing is a new emerging field that coming out of the lab and
+finding its applications in the real world. The space of the open source
+software for quantum computing is blooming with this trend, with researchers
+and hardware providers alike investing in creating software infrastructure
+for this new computing paradigm.
+
+With that in mind, the purpose of this devroom is twofold:
+
+- to flatten down the learning curve and break perceived barriers that prevent
+  developers from entering the field of quantum software development
+- to ensure that the field is dominated by high-quality, community driven FOSS
+  open source software, standards and protocols
+
+Many of the players have open sourced libraries to build quantum computing
+circuits and interact with their platforms, both actual hardware and simulators.
+However, not enough attention is given to building a wider quantum computing
+community and current trajectory leads to multiple silos, projects that are
+driven by commercial interest without liberal community driven governance
+structure.
+
+FOSDEM is one of the largest gatherings of open source community in the world,
+which happens yearly at the ULB Capus Solbosch, Brussels, Belgium. As such, it
+is an ideal place not only to showcase and discuss new ideas and developments
+in the space of quantum computing, but also help break down the barriers in
+adopting quantum computing by software developers.

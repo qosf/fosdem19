@@ -1,0 +1,52 @@
+---
+
+port: 4000
+host: 0.0.0.0
+safe: false
+
+
+### site serving configuration ###
+exclude: [CNAME, README.md, .gitignore]
+timezone: null
+lsi: false
+markdown: kramdown
+highlighter: rouge
+
+
+### content configuration ###
+title:       "FOSDEM'19 Quantum Computing devroom"
+keywords:    "quantum computing"
+description: "FOSDEM'19 Quantum Computing devroom"
+source_link: "https://github.com/qosf/fosdem19"
+favicon:     "img/favicon.ico"
+
+
+### template colors, used site-wide via css ###
+colors:
+  black:     '#111111'
+  white:     '#ffffff'
+  blue:      '#2a52be'
+  orange:    '#a98625'
+  red:       '#be4c2a'
+  green:     '#377f1c'
+  purple:    '#be2a52'
+  turquoise: '#2a9cbe'
+
+# Dull pastels
+  # black:     '#111111'
+  # white:     '#ffffff'
+  # blue:      '#779ecb'
+  # orange:    '#cba477'
+  # red:       '#cb7a77'
+  # green:     '#9ecb77'
+  # purple:    '#cb779e'
+  # turquoise: '#77c8cb'
+
+# Original Bright colors
+  # black:     '#111111'
+  # white:     '#f8f8f8'
+  # blue:      '#49a7e9'
+  # green:     '#9bcf2f'
+  # purple:    '#c869bf'
+  # orange:    '#fab125'
+  # turquoise: '#0fbfcf'
