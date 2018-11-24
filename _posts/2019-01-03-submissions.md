@@ -18,12 +18,8 @@ licence. Speakers are hence required to give permission to being recorded.
 
 Submit proposals either using the FOSDEM submission system:
 
-    https://penta.fosdem.org/submission/FOSDEM19
-    or using email address: fosdem19 at qosf.org
+<p align='center'><a href="https://penta.fosdem.org/submission/FOSDEM19">https://penta.fosdem.org/submission/FOSDEM19</a></p>
 
-Submission deadline is Dec 11th, 23.59 UTC. Speakers will be notified on Dec
-13th and schedule will be made public on Dec 15th.
-
-Pentabarf instructions: To submit your talk, click on "Create Event" and then
-select the "Quantum computing" as the "Track". If you have already spoken at
+Pentabarf instructions: To submit your talk, click on "<em>Create Event</em>" and then
+select the "<em>Quantum computing</em>" as the "<em>Track</em>". If you have already spoken at
 FOSDEM previously, please re-use your account.
