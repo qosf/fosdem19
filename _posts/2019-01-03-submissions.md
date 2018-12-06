@@ -20,6 +20,12 @@ Submit proposals either using the FOSDEM submission system:
 
 <p align='center'><a href="https://penta.fosdem.org/submission/FOSDEM19">https://penta.fosdem.org/submission/FOSDEM19</a></p>
 
+or sending them to the email address:
+
+<p align='center'><a href="mailto:fosdem19@qosf.org">fosdem19@qosf.org</a></p>
+
+Include speaker info, title, short abstract and description (up to 200 words).
+
 Pentabarf instructions: To submit your talk, click on "<em>Create Event</em>" and then
 select the "<em>Quantum computing</em>" as the "<em>Track</em>". If you have already spoken at
 FOSDEM previously, please re-use your account.
